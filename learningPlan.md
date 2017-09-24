@@ -25,12 +25,11 @@ First weekly plan
   - use links from Rohan to learn more about technical testing
 
 #### Week 39 (25 Sep-01 Oct)
-
 1. Rose (highlights), thorns (lowlights) and bananas (surprises) from your learning time last week
     Rose - solved a problem and wrote helpful piece of code:) (the problem was that our WFL project requires seeds with comments, which resulted in lots of manual work and approx 900 lines of code and 180 objects in seeds, since this was manually done we had errors and lots of duplicates; now we can generate the seeds automatically and have a function in seeds instead of a big object!)
-    Thorns - did not do enough on algorithms last week; Bananas - will have a first 'chat' for work this week, stressing.
+    Thorns - did not do enough on algorithms last week; Bananas - I was on Ember workshop - I really liked it and already did a simple page using Ember!.
 2. Your learning objectives for this week
     a) learn more about SF.com for a meeting
-    b) work on algorithms and pure JS this week
-3. Work everyday.   
-4. 2-4 hrs a day.
+    b) work on algorithms, pure JS and re-plan my travel app this week.
+3. Work everyday, timebox.
+4. min 2hrs a day on coding
