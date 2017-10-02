@@ -40,5 +40,5 @@ First weekly plan
     Bananas - got 5 SF badges pretty quickly.
 2. Your learning objectives for this week
     a) prepare myself for interview, practise talking in English mostly
-    b) continue work on course started, ember and algorithms.
-3.,4. How to achieve this - work everyday, timebox min 2hrs a day on learning.
+    b) continue work on course started, ember and algorithms, read about vue.js.
+3.,4. How to achieve this - min 2hrs/day on learning.
