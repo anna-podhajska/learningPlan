@@ -33,3 +33,12 @@ First weekly plan
     b) work on algorithms, pure JS and re-plan my travel app this week.
 3. Work everyday, timebox.
 4. min 2hrs a day on coding
+
+#### Week 40 (2-8 Oct)
+1. Rose - got through first job interview and going for a second one ... I'm pretty scared but happy :)
+    Thorns - did less coding than planned and did not finish all I started last week.
+    Bananas - got 5 SF badges pretty quickly.
+2. Your learning objectives for this week
+    a) prepare myself for interview, practise talking in English mostly
+    b) continue work on course started, ember and algorithms.
+3.,4. How to achieve this - work everyday, timebox min 2hrs a day on learning.
