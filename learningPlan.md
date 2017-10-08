@@ -42,3 +42,12 @@ First weekly plan
     a) prepare myself for interview, practise talking in English mostly
     b) continue work on course started, ember and algorithms, read about vue.js.
 3.,4. How to achieve this - min 2hrs/day on learning.
+
+#### Week 42 (9-15 Oct)
+1. Rose - working on a website for a landscape design company. It is pretty cool to be able to use tools we've learnt!
+    Thorns - missed Ember Meetup
+    Bananas - making a google maps component yesterday was easier than I thought:)
+2. Learning objectives for this week
+    a) build a website using react/redux/bulma&css and deploy first fully functional version.
+    b) continue/maybe finish course on udacity (OO JS)
+3.,4. How to achieve this - min 2h daily on learning plus some time on weekends.
